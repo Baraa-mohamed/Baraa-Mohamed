@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Baraa Mohamed</h1>
+<h3 align="center">Junior Network Engineer & Cybersecurity Explorer</h3>
 
-<!--
-**Baraa-mohamed/Baraa-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌐 Passionate about networking, ethical hacking, and making the internet a safer place.  
+💡 Currently learning **CCNA** and diving deep into **packet analysis** and **network protocols**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Technologies:
+#### 🖧 Networking:
+- Cisco Packet Tracer
+- Wireshark (Packet Analysis)
+- Nmap (Network Scanning)
+- Netcat
+- Traceroute / Ping / Telnet / SSH
+
+#### 🔐 Cybersecurity:
+- Burp Suite (Web App Testing)
+- OWASP ZAP
+- Hydra (Brute Forcing)
+- John the Ripper / Hashcat (Password Cracking)
+- Metasploit Framework
+- Kali Linux tools
+
+#### 💻 System & Scripting:
+- Linux (Ubuntu, Kali)
+- Bash Scripting
+- PowerShell (Basics)
+- Windows CMD / Sysinternals
+
+#### 🌐 Version Control & Platforms:
+- Git & GitHub
+- GitHub Actions (basics)
+- Markdown
+
+#### ☁️ Virtualization & Cloud (Basics):
+- VirtualBox / VMware
+- AWS (Basics)
+
+---
+
+### 📫 How to reach me:
+- Email: it.baraa.mohamed@gmail.com  
+- LinkedIn: [baraa-mohamed](https://www.linkedin.com/in/baraa-mohamed-54ab56328)
+
+---
+
+> “Security is not a product, it's a process.” – Bruce Schneier
