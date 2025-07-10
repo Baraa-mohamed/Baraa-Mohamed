@@ -17,11 +17,7 @@
 - Traceroute / Ping / Telnet / SSH
 
 #### 🔐 Cybersecurity:
-- Burp Suite (Web App Testing)
-- OWASP ZAP
-- Hydra (Brute Forcing)
 - John the Ripper / Hashcat (Password Cracking)
-- Metasploit Framework
 - Kali Linux tools
 
 #### 💻 System & Scripting:
